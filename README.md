@@ -13,6 +13,8 @@ The python packages can easily be installed using the following command: ```pip 
 
 # License
 
+***GNU General Public License v3.0***
+
 ```markdown
 Early Graft Loss and its impact, a kidney transplant analysis.
 Copyright (C) 2020  J.R.M. Martens
